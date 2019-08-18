@@ -1,0 +1,12 @@
+[global]
+address = "localhost"
+
+[development]
+log = "normal"
+port = 9606
+
+[staging]
+log = "normal"
+
+[production]
+log = "critical"
